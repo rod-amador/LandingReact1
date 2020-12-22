@@ -14,17 +14,17 @@ class Navbar extends Component {
                     <span>  <img src={logo} alt="Logo" />     </span>
                 </div>
 
-                <div className="uk-navbar-right uk-margin-right">
+                <div className="uk-navbar-right uk-margin-right ">
                     
                     <Link to={"/"} style={{color:"white"}}   >       
-                        <button className="uk-margin-left uk-margin-right uk-button" style={{backgroundColor:"green", color:"white"}}>
+                        <button className="uk-margin-left uk-margin-right uk-margin-top uk-button" style={{backgroundColor:"green", color:"white"}}>
                             Inicio       
                         </button>
                     </Link>   
                   
 
                     <Link to={"/beneficios"} style={{color:"white"}}   >  
-                            <button className="uk-margin-left uk-margin-right uk-button" style={{backgroundColor:"green", color:"white"}}>
+                            <button className="uk-margin-left uk-margin-right uk-margin-top uk-button" style={{backgroundColor:"green", color:"white"}}>
                                 Beneficios    
                             </button>
                     </Link> 
