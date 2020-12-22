@@ -17,14 +17,14 @@ class Navbar extends Component {
                 <div className="uk-navbar-right uk-margin-right">
                     
                     <Link to={"/"} style={{color:"white"}}   >       
-                        <button className="uk-margin-left uk-margin-right uk-button" style={{backgroundColor:"green", color:"white"}}>
+                        <button className="uk-margin-left uk-margin-right uk-button uk-margin-top" style={{backgroundColor:"green", color:"white"}}>
                             Inicio       
                         </button>
                     </Link>   
                   
 
                     <Link to={"/beneficios"} style={{color:"white"}}   >  
-                            <button className="uk-margin-left uk-margin-right uk-button" style={{backgroundColor:"green", color:"white"}}>
+                            <button className="uk-margin-left uk-margin-right uk-button uk-margin-top" style={{backgroundColor:"green", color:"white"}}>
                                 Beneficios    
                             </button>
                     </Link> 
