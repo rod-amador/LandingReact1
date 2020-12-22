@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/LandingReact1/static/css/main.050523cc.chunk.css",
+    "main.js": "/LandingReact1/static/js/main.96341849.chunk.js",
+    "main.js.map": "/LandingReact1/static/js/main.96341849.chunk.js.map",
+    "runtime-main.js": "/LandingReact1/static/js/runtime-main.4492d6ee.js",
+    "runtime-main.js.map": "/LandingReact1/static/js/runtime-main.4492d6ee.js.map",
+    "static/css/2.95812a00.chunk.css": "/LandingReact1/static/css/2.95812a00.chunk.css",
+    "static/js/2.6f6154fc.chunk.js": "/LandingReact1/static/js/2.6f6154fc.chunk.js",
+    "static/js/2.6f6154fc.chunk.js.map": "/LandingReact1/static/js/2.6f6154fc.chunk.js.map",
+    "index.html": "/LandingReact1/index.html",
+    "precache-manifest.64b21ff4c0e8b713a265951ec0a0108c.js": "/LandingReact1/precache-manifest.64b21ff4c0e8b713a265951ec0a0108c.js",
+    "service-worker.js": "/LandingReact1/service-worker.js",
+    "static/css/2.95812a00.chunk.css.map": "/LandingReact1/static/css/2.95812a00.chunk.css.map",
+    "static/css/main.050523cc.chunk.css.map": "/LandingReact1/static/css/main.050523cc.chunk.css.map",
+    "static/js/2.6f6154fc.chunk.js.LICENSE.txt": "/LandingReact1/static/js/2.6f6154fc.chunk.js.LICENSE.txt",
+    "static/media/carrera11.png": "/LandingReact1/static/media/carrera11.37ad9a4e.png",
+    "static/media/carrera13.png": "/LandingReact1/static/media/carrera13.b5492b22.png",
+    "static/media/carrera4.png": "/LandingReact1/static/media/carrera4.f494a0c2.png",
+    "static/media/carrera5.png": "/LandingReact1/static/media/carrera5.f729794b.png",
+    "static/media/header1.jpg": "/LandingReact1/static/media/header1.a02df5fa.jpg",
+    "static/media/header2.jpg": "/LandingReact1/static/media/header2.3c37a703.jpg",
+    "static/media/img1.svg": "/LandingReact1/static/media/img1.4f344cf4.svg",
+    "static/media/img2.svg": "/LandingReact1/static/media/img2.cf9a525f.svg",
+    "static/media/img3.svg": "/LandingReact1/static/media/img3.52d06e8f.svg",
+    "static/media/img4.svg": "/LandingReact1/static/media/img4.4f344cf4.svg",
+    "static/media/logo.svg": "/LandingReact1/static/media/logo.3985ddf6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4492d6ee.js",
+    "static/css/2.95812a00.chunk.css",
+    "static/js/2.6f6154fc.chunk.js",
+    "static/css/main.050523cc.chunk.css",
+    "static/js/main.96341849.chunk.js"
+  ]
+}
