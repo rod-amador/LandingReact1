@@ -1,12 +1,8 @@
 {
-  "homepage": ".",
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-<<<<<<< HEAD
   "homepage": ".",
-=======
->>>>>>> b87915ca915dbe87ae9be9115bbba33d25444b52
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
